@@ -12,4 +12,6 @@ grammar_cjkRuby: true
 1） CA partity
 2） DBI
 3）CRC
+4）注意3T timing
+
 
